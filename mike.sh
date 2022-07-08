@@ -1,4 +1,7 @@
-#!/bin/bash
+#!/bin/bash 
+#Author : michael amoh 
+Date :07/07/21 
+michaelamoh09@gmail.com
 
 echo "what is your name?"
 read f_name
